@@ -1,0 +1,1 @@
+from MyPackage import MyModule
