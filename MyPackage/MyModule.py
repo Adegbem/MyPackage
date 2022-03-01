@@ -5,7 +5,7 @@ def top_n(items, n):
     :param n: len of item to return
     :return: array, top n item in desecding order
     example:
-            >>> top_n([8, 4, 2, 7, 9, 1], 3)
+            >>> top_n([8, 4, 2, 7, 9, 1], n=3)
             [9, 8, 7]
     """
 
