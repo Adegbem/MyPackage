@@ -10,4 +10,5 @@ def top_n(items, n):
     """
 
     sorted_items = sorted(items, reverse=True)
-    return sorted_items[:3]
+    return sorted_items[:n]
+
